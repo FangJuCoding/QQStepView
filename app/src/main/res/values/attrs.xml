@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQStepView">
+        <!--        外圆颜色-->
+        <attr name="outerCircleColor" format="color" />
+        <!--        内圆颜色-->
+        <attr name="innerCircleColor" format="color" />
+        <!--        步数文字颜色-->
+        <attr name="stepTextColor" format="color" />
+        <!--        步数文字大小-->
+        <attr name="stepTextSize" format="dimension" />
+        <!--        圆的边框大小-->
+        <attr name="circleBorderWidth" format="dimension" />
+    </declare-styleable>
+</resources>
